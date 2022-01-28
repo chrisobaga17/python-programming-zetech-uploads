@@ -1,0 +1,5 @@
+print(21%6)
+print(2**2)
+print(21*6)
+print(21+6)
+print(21/6)
